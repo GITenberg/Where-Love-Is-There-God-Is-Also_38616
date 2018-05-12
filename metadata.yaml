@@ -27,6 +27,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
 description: Where love is, there God is also -- The three hermits -- What men live
   by.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38616#Where-Love-Is-There-God-Is-Also
 gutenberg_issued: '2012-01-18'
 gutenberg_type: Text
 identifiers:
