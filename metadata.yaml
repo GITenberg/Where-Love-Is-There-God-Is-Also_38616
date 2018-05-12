@@ -1,0 +1,46 @@
+_repo: Where-Love-Is-There-God-Is-Also_38616
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Dole, Nathan Haskell
+    alias: Dole, Nathen Haskell
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '36286'
+    url: http://www.gutenberg.org/2009/agents/36286
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Толстой, Лев Николаевич
+    - Tolstoy, Graf Leo
+    - Tolstoy, Lev N.
+    - Tolstoi, Leo
+    - Tolstoï, Léon
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: Where love is, there God is also -- The three hermits -- What men live
+  by.
+gutenberg_issued: '2012-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38616'
+  lccn: a15000452
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction'
+- !lcc 'PG'
+- !lcsh 'Tolstoy, Leo, graf, 1828-1910 -- Translations into English'
+- !lcsh 'Shoemakers -- Fiction'
+- !lcsh 'Short stories'
+title: Where Love is There God is Also
+url: http://www.gutenberg.org/ebooks/38616
